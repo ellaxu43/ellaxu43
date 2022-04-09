@@ -1,16 +1,10 @@
 ### Hi there, welcome! 👋
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellaxu43&show_icons=true&theme=radical /></p>
-
-
 <h3 align="center">I think analytically and summaries stories.</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellaxu43&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaxu43&label=Profile%20views&color=0e75b6&style=flat" alt="ellaxu43" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellaxu43" alt="ellaxu43" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
