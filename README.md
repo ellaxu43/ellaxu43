@@ -1,7 +1,7 @@
 ### Hi there, welcome! 👋
 
 <h3 align="left">I think analytically and summaries stories.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellaxu43&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaxu43&label=Profile%20views&color=0e75b6&style=flat" alt="ellaxu43" /> </p>
