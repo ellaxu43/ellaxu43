@@ -1,14 +1,14 @@
 ### Hi there, welcome! 👋
 
-<h3 align="center">I think analytically and summaries stories.</h3>
+<h3 align="left">I think analytically and summaries stories.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellaxu43&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaxu43&label=Profile%20views&color=0e75b6&style=flat" alt="ellaxu43" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ella-xu-tulaneuniversity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ella-xu-tulaneuniversity" height="30" width="40" /></a>
+<a href="https://instagram.com/ella_brave_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ella_brave_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
