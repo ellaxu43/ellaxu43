@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellaxu43&show_icons=true&theme=radical)
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaxu43&label=Profile%20views&color=0e75b6&style=flat" alt="ellaxu43" /> </p>
 <h3 align="left">Connect with me:</h3>
