@@ -1,6 +1,6 @@
 ### Hi there, welcome! 👋
 
-<h3 align="left">I think analytically and summaries stories.</h3>
+<h3 align="left">As an ambitious, detail-oriented, highly motivated analyst who is trying to fulfill her dream as a data analyst, I am passionate about creating impact through data analytics as well as self-learning in order to become a better analyst. </h3>
 
 ***
 
